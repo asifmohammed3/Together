@@ -1,16 +1,19 @@
-# flutter_assmnts
 
-A new Flutter project.
+# Together Assignment
 
-## Getting Started
+A simple flutter application that load
+data from a mock API and implement pagination with unlimited scroll until the API returns empty data.
 
-This project is a starting point for a Flutter application.
+Implemented Pagination techniques.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## API
+
+https://api-stg.together.buzz/mocks/discovery
+
+
+
+## Screens
+
+![image](https://github.com/asifmohammed3/Together/assets/82872316/b32ec0bd-e7df-4901-8a50-eebcaccb483d) ![WhatsApp Image 2024-02-17 at 16 28 53_7b144675](https://github.com/asifmohammed3/Together/assets/82872316/a371b48c-4ca1-4393-8e28-ddde686f1cfc)
