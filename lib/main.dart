@@ -2,9 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_assmnts/itemListWidget.dart';
 import 'package:flutter_assmnts/networkState.dart';
-import 'package:flutter_assmnts/utils/const.dart';
-import 'package:flutter_native_splash/flutter_native_splash.dart';
-import 'package:google_fonts/google_fonts.dart';
+
 
 
 void main() {
