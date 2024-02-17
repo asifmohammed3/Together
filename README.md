@@ -12,7 +12,8 @@ Implemented Pagination techniques.
 
 https://api-stg.together.buzz/mocks/discovery
 
-
+##APK
+The app release is available in Output/app-release.apk
 
 ## Screens
 
